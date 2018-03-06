@@ -1,0 +1,7 @@
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Model\bin\Debug\netcoreapp1.1\CoreRest.Model.deps.json
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Model\bin\Debug\netcoreapp1.1\CoreRest.Model.dll
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Model\bin\Debug\netcoreapp1.1\CoreRest.Model.pdb
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Model\obj\Debug\netcoreapp1.1\CoreRest.Model.csproj.CoreCompileInputs.cache
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Model\obj\Debug\netcoreapp1.1\CoreRest.Model.AssemblyInfo.cs
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Model\obj\Debug\netcoreapp1.1\CoreRest.Model.dll
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Model\obj\Debug\netcoreapp1.1\CoreRest.Model.pdb

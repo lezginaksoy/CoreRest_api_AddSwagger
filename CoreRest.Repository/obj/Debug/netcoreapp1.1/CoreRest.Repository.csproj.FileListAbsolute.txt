@@ -1,0 +1,10 @@
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Repository\bin\Debug\netcoreapp1.1\CoreRest.Repository.deps.json
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Repository\bin\Debug\netcoreapp1.1\CoreRest.Repository.dll
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Repository\bin\Debug\netcoreapp1.1\CoreRest.Repository.pdb
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Repository\bin\Debug\netcoreapp1.1\CoreRest.Model.dll
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Repository\bin\Debug\netcoreapp1.1\CoreRest.Model.pdb
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Repository\obj\Debug\netcoreapp1.1\CoreRest.Repository.csprojResolveAssemblyReference.cache
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Repository\obj\Debug\netcoreapp1.1\CoreRest.Repository.csproj.CoreCompileInputs.cache
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Repository\obj\Debug\netcoreapp1.1\CoreRest.Repository.AssemblyInfo.cs
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Repository\obj\Debug\netcoreapp1.1\CoreRest.Repository.dll
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Repository\obj\Debug\netcoreapp1.1\CoreRest.Repository.pdb

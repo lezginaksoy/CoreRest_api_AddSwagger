@@ -1,0 +1,14 @@
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Api\bin\Debug\netcoreapp1.1\CoreRest.Api.deps.json
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Api\bin\Debug\netcoreapp1.1\CoreRest.Api.runtimeconfig.json
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Api\bin\Debug\netcoreapp1.1\CoreRest.Api.runtimeconfig.dev.json
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Api\bin\Debug\netcoreapp1.1\CoreRest.Api.dll
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Api\bin\Debug\netcoreapp1.1\CoreRest.Api.pdb
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Api\bin\Debug\netcoreapp1.1\CoreRest.Model.dll
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Api\bin\Debug\netcoreapp1.1\CoreRest.Repository.dll
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Api\bin\Debug\netcoreapp1.1\CoreRest.Model.pdb
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Api\bin\Debug\netcoreapp1.1\CoreRest.Repository.pdb
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Api\obj\Debug\netcoreapp1.1\CoreRest.Api.csprojResolveAssemblyReference.cache
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Api\obj\Debug\netcoreapp1.1\CoreRest.Api.csproj.CoreCompileInputs.cache
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Api\obj\Debug\netcoreapp1.1\CoreRest.Api.AssemblyInfo.cs
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Api\obj\Debug\netcoreapp1.1\CoreRest.Api.dll
+C:\Users\la185067\Projects\CoreRESTApi_Swagger\CoreRest.Api\obj\Debug\netcoreapp1.1\CoreRest.Api.pdb
