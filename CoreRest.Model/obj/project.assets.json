@@ -7045,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\la185067\\Projects\\CoreRESTApi_Swagger\\CoreRest.Model\\CoreRest.Model.csproj",
+      "projectUniqueName": "C:\\Users\\la185067\\Projects\\CoreRestApi_AddSwagger\\CoreRest.Model\\CoreRest.Model.csproj",
       "projectName": "CoreRest.Model",
-      "projectPath": "C:\\Users\\la185067\\Projects\\CoreRESTApi_Swagger\\CoreRest.Model\\CoreRest.Model.csproj",
+      "projectPath": "C:\\Users\\la185067\\Projects\\CoreRestApi_AddSwagger\\CoreRest.Model\\CoreRest.Model.csproj",
       "packagesPath": "C:\\Users\\la185067\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\la185067\\Projects\\CoreRESTApi_Swagger\\CoreRest.Model\\obj\\",
+      "outputPath": "C:\\Users\\la185067\\Projects\\CoreRestApi_AddSwagger\\CoreRest.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\la185067\\AppData\\Roaming\\NuGet\\NuGet.Config",

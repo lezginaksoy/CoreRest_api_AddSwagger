@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Swashbuckle.AspNetCore.Swagger;
+using CoreRest.Repository;
 
 namespace CoreRest.Api
 {
@@ -30,6 +31,8 @@ namespace CoreRest.Api
         {
             // Add framework services.
             services.AddMvc();
+            services.AddSingleton<IData, DummyData>();
+            services.AddSingleton<IEmployeeRepository, EmployeeRepository>();
 
             services.AddSwaggerGen(c =>
             {

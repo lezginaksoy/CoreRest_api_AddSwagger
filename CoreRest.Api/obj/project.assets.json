@@ -9871,11 +9871,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\la185067\\Projects\\CoreRESTApi_Swagger\\CoreRest.Api\\CoreRest.Api.csproj",
+      "projectUniqueName": "C:\\Users\\la185067\\Projects\\CoreRestApi_AddSwagger\\CoreRest.Api\\CoreRest.Api.csproj",
       "projectName": "CoreRest.Api",
-      "projectPath": "C:\\Users\\la185067\\Projects\\CoreRESTApi_Swagger\\CoreRest.Api\\CoreRest.Api.csproj",
+      "projectPath": "C:\\Users\\la185067\\Projects\\CoreRestApi_AddSwagger\\CoreRest.Api\\CoreRest.Api.csproj",
       "packagesPath": "C:\\Users\\la185067\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\la185067\\Projects\\CoreRESTApi_Swagger\\CoreRest.Api\\obj\\",
+      "outputPath": "C:\\Users\\la185067\\Projects\\CoreRestApi_AddSwagger\\CoreRest.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\la185067\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9891,11 +9891,11 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\la185067\\Projects\\CoreRESTApi_Swagger\\CoreRest.Repository\\CoreRest.Repository.csproj": {
-              "projectPath": "C:\\Users\\la185067\\Projects\\CoreRESTApi_Swagger\\CoreRest.Repository\\CoreRest.Repository.csproj"
+            "C:\\Users\\la185067\\Projects\\CoreRestApi_AddSwagger\\CoreRest.Repository\\CoreRest.Repository.csproj": {
+              "projectPath": "C:\\Users\\la185067\\Projects\\CoreRestApi_AddSwagger\\CoreRest.Repository\\CoreRest.Repository.csproj"
             },
-            "C:\\Users\\la185067\\Projects\\CoreRESTApi_Swagger\\CoreRest.Model\\CoreRest.Model.csproj": {
-              "projectPath": "C:\\Users\\la185067\\Projects\\CoreRESTApi_Swagger\\CoreRest.Model\\CoreRest.Model.csproj"
+            "C:\\Users\\la185067\\Projects\\CoreRestApi_AddSwagger\\CoreRest.Model\\CoreRest.Model.csproj": {
+              "projectPath": "C:\\Users\\la185067\\Projects\\CoreRestApi_AddSwagger\\CoreRest.Model\\CoreRest.Model.csproj"
             }
           }
         }
