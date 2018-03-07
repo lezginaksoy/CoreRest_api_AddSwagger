@@ -14,16 +14,17 @@ To add Swagger to Web API, we just need to install an open source project called
 # Step 4 Configuring Swagger
 At minimum, we need this line to enable Swagger and Swagger UI. 
 
- public void ConfigureServices(IServiceCollection services)
+        public void ConfigureServices(IServiceCollection services)
         {
             // Add framework services.
             services.AddMvc();
+            services.AddSingleton<IData, DummyData>();
+            services.AddSingleton<IEmployeeRepository, EmployeeRepository>();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new Info { Title = "Core RESTful API", Description = "using swagger for core rest api", Version = "v1" });
             });
-
-        
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
